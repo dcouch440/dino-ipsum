@@ -1,46 +1,43 @@
-# _{Application Name}_
+# _Dino Ipsum_
 
-#### _{Brief description of application}_
+#### _Lets the user generate loren ipsum inspired text, but with dinosaur names._
 
-#### By _**Louie Schoenknecht**_
+#### Co-Created By _**Louie Schoenknecht**_
+
+#### Co-Created By _**David Couch**_
 
 ## Technologies Used
 
-* _Babel_
-* _Bootstrap_
-* _clean-webpack-plugin_
-* _CSS_
-* _eslint_
-* _HTML5_
-* _JavaScript_
-* _Jest_
-* _jQuery_
-* _Node & NPM_
-* _popper.js_
-* _webpack_
+* _HTML5/CSS3_
+* _Bootstrap 4.6.0_
+* _JavaScript ES6_
+* _jQuery 3.5.1_
+* _Node Package Manager 6.14.9_
+* _webpack 4.39.3_
+* _Babel 7.6.4_
+* _eslint 6.3.0_
+* _Jest 24.9.0_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_Project created for week 6 of Epicodus. The purpose of the project is to practice using APIs and refactoring using promises and XHL requests._
 
 ## Setup/Installation Requirements
 
-* _Clone repository from GitHub using: $ git clone https://github.com/louiesch/template-repo_
+* _Clone repository from GitHub using: $ git clone https://github.com/louiesch/dino-ipsum_
 * _Open project directory in terminal_
 * _Re-build project environment using command $ npm install_
-* _Create project environment using command $ npm run build_
 * _Open the project in browser using command $ npm run start_
 
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs_
 
 ## License
 
 _[MIT](https://choosealicense.com/licenses/mit/)_
 
-_Copyright (c) 2021 Louie Schoenknecht_
+_Copyright (c) 2021 Louie Schoenknecht, David Couch_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -51,4 +48,5 @@ SOFTWARE.
 
 ## Contact Information
 
-_Get in touch: luisesch97@gmail.com_
+_Get in touch: luisesch97@gmail.com_\
+_Get in touch: dcouch440@gmail.com_
